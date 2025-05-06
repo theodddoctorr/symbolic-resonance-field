@@ -1,0 +1,11 @@
+23% Factorial Public Recursive License (PSL-23)
+
+This project and all derived works are freely usable, modifiable, and extendable under the following terms:
+
+1. 23% of all derivatives, forks, or implementations must acknowledge the original creator (Jason Faulkner) either by symbolic attribution, linked citation, or recursive credit.
+2. Redistribution must preserve the symbolic architecture or clearly declare divergence.
+3. Commercial usage is permitted only if either:
+   - 23% of profits are redirected to symbolic research, open science, or neurodivergent innovation.
+   - Or, open reciprocity is provided through equivalent symbolic contributions to the public domain.
+
+By using or forking this system, you accept these terms.
